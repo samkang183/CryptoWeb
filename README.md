@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Take a look at my project live by pressing this link, https://cryptoweb-e2587.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
